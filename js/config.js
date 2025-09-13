@@ -30,7 +30,7 @@ const API_SITES = {
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
-    }，
+    },
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
